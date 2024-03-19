@@ -1,3 +1,7 @@
+# Reducing hallucination of ChatGPT models for healthcare data
+
+This code is for usage by Valid AI 
+
 
 # Environment settings
 ```
